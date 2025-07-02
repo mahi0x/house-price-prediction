@@ -61,6 +61,6 @@ Kaggle Dataset:
 
 ## ✨ Author
 
-**Harsh Burman**  
+**Mahi Tomar**  
 📍 Machine Learning Intern @ Prodigy Infotech  
 🔗 [LinkedIn](https://www.linkedin.com/) *(add your real link)*  
