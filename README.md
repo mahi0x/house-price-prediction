@@ -63,4 +63,4 @@ Kaggle Dataset:
 
 **Mahi Tomar**  
 📍 Machine Learning Intern @ Prodigy Infotech  
-🔗 [LinkedIn](https://www.linkedin.com/) *(add your real link)*  
+🔗 [LinkedIn](https://www.linkedin.com/in/mahi-tomar-448518346/)
